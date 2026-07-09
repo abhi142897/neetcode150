@@ -15,12 +15,12 @@ The goal is a file I can skim in 10–15 minutes the night before an interview a
 
 | Topic | File | Status |
 |---|---|---|
-| Arrays & Hashing | [arrays-hashing.md](./arrays-hashing.md) | ⏳ Planned |
+| Arrays & Hashing | `arrays-hashing.md` | ⏳ Planned |
 | Two Pointers | `two-pointers.md` | ⏳ Planned |
 | Sliding Window | `sliding-window.md` | ⏳ Planned |
 | Stack | `stack.md` | ⏳ Planned |
 | Binary Search | `binary-search.md` | ⏳ Planned |
-| Linked List | [linkedlist.md](./linkedlist.md) | ⏳ Planned |
+| Linked List | `linkedlist.md` | ⏳ Planned |
 | Trees | `trees.md` | ⏳ Planned |
 | Tries | `tries.md` | ⏳ Planned |
 | Heap / Priority Queue | `heap-priority-queue.md` | ⏳ Planned |
