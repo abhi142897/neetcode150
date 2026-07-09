@@ -1,6 +1,6 @@
 # NeetCode 150 — Java Notes
 
-Topic-wise interview prep notes for the [NeetCode 150](https://neetcode.io/practice) problem set, written in Java.
+Topic-wise interview prep notes for the [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) problem set, written in Java.
 
 ## Why this repo exists
 
